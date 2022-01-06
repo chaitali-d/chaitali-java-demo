@@ -1,4 +1,4 @@
-package com.chaiatali._3arrayofjava;
+package com.chaitali._3arrayofjava;
 //to store 10 to 50 elements in array 
 public class ArrayDemo {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class ArrayDemo {
         	System.out.println(a[i]);
         	
         }
-        
+        //to store string values.
         String  b[]= {"raj","mom","tony"};
         
         for(int i=0;i<b.length;i++) {

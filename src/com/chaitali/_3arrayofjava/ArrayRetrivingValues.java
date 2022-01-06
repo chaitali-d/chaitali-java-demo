@@ -1,4 +1,4 @@
-package com.chaiatali._3arrayofjava;
+package com.chaitali._3arrayofjava;
 
 public class ArrayRetrivingValues {
 	public static void main(String[] args) {
