@@ -1,3 +1,4 @@
+package com.chaitali._5structurofjavaapplication;
 
 public class NoArgumentWithReturn {
 	static int i;
