@@ -1,3 +1,20 @@
+//package com.chaitali._99ImpTopics;
+
+// Entities - characteristics, features, attributes - fields / variables 
+// behaviours - methods 
+
+//public class Employee {
+//
+//	int eid;
+//	String firstName;
+//	double salary;
+//
+//	void work() {
+//
+//	}
+//
+//}
+
 package com.chaitali._99ImpTopics;
 
 public class Employee {
